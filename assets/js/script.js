@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Mechanical Engineering", "Product Management", "Product Strategy Consultant", "Supply Chain Management", "Project Management"],
+    strings: ["Product Management", "Product Strategy Consultant", "Supply Chain Management", "Project Management", "Mechanical Engineering"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
