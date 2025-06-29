@@ -1,156 +1,182 @@
-    {
-      "name": "Project Management",
-      "icon": "https://img.icons8.com/color/48/project-management.png"
-    }
-    {
-      "name": "Scrum",
-      "icon": "https://img.icons8.com/color/48/scrum-taskboard.png"
-    }
-    {
-      "name": "Agile",
-      "icon": "https://img.icons8.com/color/48/agile.png"
-    }
-    {
-      "name": "Risk Management",
-      "icon": "https://img.icons8.com/color/48/risk.png"
-    }
-    {
-      "name": "Stakeholder Management",
-      "icon": "https://img.icons8.com/color/48/conference-call.png"
-    }
-    {
-      "name": "Product Lifecycle (PLM)",
-      "icon": "https://img.icons8.com/color/48/process.png"
-    }
-    {
-      "name": "UI/UX Prototyping",
-      "icon": "https://img.icons8.com/color/48/design.png"
-    }
-    {
-      "name": "Customer Feedback",
-      "icon": "https://img.icons8.com/color/48/feedback.png"
-    }
-    {
-      "name": "OKRs & KPIs",
-      "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
-    }
-    {
-      "name": "Roadmapping",
-      "icon": "https://img.icons8.com/color/48/road.png"
-    }
-    {
-      "name": "Customer Journey",
-      "icon": "https://img.icons8.com/color/48/user-journey.png"
-    }
-    {
-      "name": "Market Research",
-      "icon": "https://img.icons8.com/color/48/market-analysis.png"
-    }
-    {
-      "name": "Human-Centered Design",
-      "icon": "https://img.icons8.com/color/48/brainstorm-skill.png"
-    }
-    {
-      "name": "Persona Creation",
-      "icon": "https://img.icons8.com/color/48/gender-neutral-user.png"
-    }
-    {
-      "name": "Competitive Benchmarking",
-      "icon": "https://img.icons8.com/color/48/comparative-analysis.png"
-    }
-    {
-      "name": "Business Acumen",
-      "icon": "https://img.icons8.com/color/48/business.png"
-    }
-    {
-      "name": "Product-Led Growth",
-      "icon": "https://img.icons8.com/color/48/growth-graph.png"
-    }
-    {
-      "name": "Value Stream Mapping",
-      "icon": "https://img.icons8.com/color/48/value.png"
-    }
-    {
-      "name": "Sustainability",
-      "icon": "https://img.icons8.com/color/48/sustainability.png"
-    }
-    {
-      "name": "Supply Chain Management",
-      "icon": "https://img.icons8.com/color/48/supply-chain.png"
-    }
-    {
-      "name": "Manufacturing Technology",
-      "icon": "https://img.icons8.com/color/48/industrial-scales.png"
-    }
-    {
-      "name": "Microsoft Suite",
-      "icon": "https://img.icons8.com/color/48/microsoft-office-2019.png"
-    }
-    {
-      "name": "JIRA",
-      "icon": "https://img.icons8.com/color/48/jira.png"
-    }
-    {
-      "name": "AutoCAD",
-      "icon": "https://img.icons8.com/color/48/autocad.png"
-    }
-    {
-      "name": "SolidWorks",
-      "icon": "https://img.icons8.com/color/48/solidworks.png"
-    }
-    {
-      "name": "CATIA",
-      "icon": "https://img.icons8.com/color/48/catia.png"
-    }
-    {
-      "name": "ANSYS",
-      "icon": "https://img.icons8.com/color/48/ansys.png"
-    }
-    {
-      "name": "MATLAB",
-      "icon": "https://img.icons8.com/color/48/matlab.png"
-    }
-    {
-      "name": "Tableau",
-      "icon": "https://img.icons8.com/color/48/tableau-software.png"
-    }
-    {
-      "name": "Power BI",
-      "icon": "https://img.icons8.com/color/48/power-bi.png"
-    }
-    {
-      "name": "Python",
-      "icon": "https://img.icons8.com/color/48/python--v1.png"
-    }
-    {
-      "name": "SPSS",
-      "icon": "https://img.icons8.com/color/48/spss.png"
-    }
-    {
-      "name": "Primavera",
-      "icon": "https://img.icons8.com/color/48/planning.png"
-    }
-    {
-      "name": "Asana",
-      "icon": "https://img.icons8.com/color/48/asana.png"
-    }
-    {
-      "name": "Figma",
-      "icon": "https://img.icons8.com/color/48/figma--v1.png"
-    }
-    {
-      "name": "Canva",
-      "icon": "https://img.icons8.com/color/48/canva.png"
-    }
-    {
-      "name": "SAP",
-      "icon": "https://img.icons8.com/color/48/sap.png"
-    }
-    {
-      "name": "Machine Learning",
-      "icon": "https://img.icons8.com/color/48/artificial-intelligence.png"
-    }
-    {
-      "name": "Lean Six Sigma",
-      "icon": "https://img.icons8.com/color/48/sigma.png"
-    }
+[
+  {
+    "name": "Project Management",
+    "icon": "https://img.icons8.com/color/48/project-management.png"
+  },
+  {
+    "name": "Scrum",
+    "icon": "https://img.icons8.com/color/48/scrum-taskboard.png"
+  },
+  {
+    "name": "Agile",
+    "icon": "https://img.icons8.com/color/48/agile.png"
+  },
+  {
+    "name": "Risk Management",
+    "icon": "https://img.icons8.com/color/48/risk.png"
+  },
+  {
+    "name": "Stakeholder Communication",
+    "icon": "https://img.icons8.com/color/48/conference-call.png"
+  },
+  {
+    "name": "Product Lifecycle Management (PLM)",
+    "icon": "https://img.icons8.com/color/48/process.png"
+  },
+  {
+    "name": "UI/UX Prototyping",
+    "icon": "https://img.icons8.com/color/48/design.png"
+  },
+  {
+    "name": "Customer Feedback Analysis",
+    "icon": "https://img.icons8.com/color/48/feedback.png"
+  },
+  {
+    "name": "OKR and KPI",
+    "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
+  },
+  {
+    "name": "Road mapping Tools",
+    "icon": "https://img.icons8.com/color/48/road.png"
+  },
+  {
+    "name": "Customer Journey Mapping",
+    "icon": "https://img.icons8.com/color/48/user-journey.png"
+  },
+  {
+    "name": "Human-Centered Design Principles",
+    "icon": "https://img.icons8.com/color/48/brainstorm-skill.png"
+  },
+  {
+    "name": "Persona Creation",
+    "icon": "https://img.icons8.com/color/48/gender-neutral-user.png"
+  },
+  {
+    "name": "Competitive Benchmarking Tools",
+    "icon": "https://img.icons8.com/color/48/comparative-analysis.png"
+  },
+  {
+    "name": "Business Acumen",
+    "icon": "https://img.icons8.com/color/48/business.png"
+  },
+  {
+    "name": "Product-Led Growth (PLG) Strategy",
+    "icon": "https://img.icons8.com/color/48/growth-graph.png"
+  },
+  {
+    "name": "Value Stream Mapping",
+    "icon": "https://img.icons8.com/color/48/value.png"
+  },
+  {
+    "name": "Sustainability",
+    "icon": "https://img.icons8.com/color/48/sustainability.png"
+  },
+  {
+    "name": "Supply Chain Management",
+    "icon": "https://img.icons8.com/color/48/supply-chain.png"
+  },
+  {
+    "name": "Manufacturing Technology",
+    "icon": "https://img.icons8.com/color/48/industrial-scales.png"
+  },
+  {
+    "name": "Microsoft Suite",
+    "icon": "https://img.icons8.com/color/48/microsoft-office-2019.png"
+  },
+  {
+    "name": "JIRA",
+    "icon": "https://img.icons8.com/color/48/jira.png"
+  },
+  {
+    "name": "Qualtrics",
+    "icon": "https://img.icons8.com/color/48/survey.png"
+  },
+  {
+    "name": "AutoCAD",
+    "icon": "https://img.icons8.com/color/48/autocad.png"
+  },
+  {
+    "name": "Data Visualization",
+    "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
+  },
+  {
+    "name": "Machine Learning",
+    "icon": "https://img.icons8.com/color/48/artificial-intelligence.png"
+  },
+  {
+    "name": "SolidWorks",
+    "icon": "https://img.icons8.com/color/48/solidworks.png"
+  },
+  {
+    "name": "CATIA",
+    "icon": "https://img.icons8.com/color/48/catia.png"
+  },
+  {
+    "name": "ANSYS",
+    "icon": "https://img.icons8.com/color/48/ansys.png"
+  },
+  {
+    "name": "CFD",
+    "icon": "https://img.icons8.com/color/48/fan.png"
+  },
+  {
+    "name": "MATLAB",
+    "icon": "https://img.icons8.com/color/48/matlab.png"
+  },
+  {
+    "name": "Primavera",
+    "icon": "https://img.icons8.com/color/48/planning.png"
+  },
+  {
+    "name": "Tableau",
+    "icon": "https://img.icons8.com/color/48/tableau-software.png"
+  },
+  {
+    "name": "Power BI",
+    "icon": "https://img.icons8.com/color/48/power-bi.png"
+  },
+  {
+    "name": "Asana",
+    "icon": "https://img.icons8.com/color/48/asana.png"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://img.icons8.com/color/48/figma--v1.png"
+  },
+  {
+    "name": "Confluence",
+    "icon": "https://img.icons8.com/color/48/confluence.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/python--v1.png"
+  },
+  {
+    "name": "Canva",
+    "icon": "https://img.icons8.com/color/48/canva.png"
+  },
+  {
+    "name": "FMEA",
+    "icon": "https://img.icons8.com/color/48/maintenance.png"
+  },
+  {
+    "name": "GD&T",
+    "icon": "https://img.icons8.com/color/48/engineering.png"
+  },
+  {
+    "name": "DFM/DFA",
+    "icon": "https://img.icons8.com/color/48/factory.png"
+  },
+  {
+    "name": "Lean Six Sigma",
+    "icon": "https://img.icons8.com/color/48/sigma.png"
+  },
+  {
+    "name": "SAP",
+    "icon": "https://img.icons8.com/color/48/sap.png"
+  },
+  {
+    "name": "SPSS",
+    "icon": "https://img.icons8.com/color/48/spss.png"
+  }
+]
