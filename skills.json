@@ -1,122 +1,158 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+      "name": "Project Management",
+      "icon": "https://img.icons8.com/color/48/project-management.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+      "name": "Scrum",
+      "icon": "https://img.icons8.com/color/48/scrum-taskboard.png"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+      "name": "Agile",
+      "icon": "https://img.icons8.com/color/48/agile.png"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+      "name": "Risk Management",
+      "icon": "https://img.icons8.com/color/48/risk.png"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+      "name": "Stakeholder Management",
+      "icon": "https://img.icons8.com/color/48/conference-call.png"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+      "name": "Product Lifecycle (PLM)",
+      "icon": "https://img.icons8.com/color/48/process.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+      "name": "UI/UX Prototyping",
+      "icon": "https://img.icons8.com/color/48/design.png"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+      "name": "Customer Feedback",
+      "icon": "https://img.icons8.com/color/48/feedback.png"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+      "name": "OKRs & KPIs",
+      "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+      "name": "Roadmapping",
+      "icon": "https://img.icons8.com/color/48/road.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+      "name": "Customer Journey",
+      "icon": "https://img.icons8.com/color/48/user-journey.png"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+      "name": "Market Research",
+      "icon": "https://img.icons8.com/color/48/market-analysis.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      "name": "Human-Centered Design",
+      "icon": "https://img.icons8.com/color/48/brainstorm-skill.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+      "name": "Persona Creation",
+      "icon": "https://img.icons8.com/color/48/gender-neutral-user.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+      "name": "Competitive Benchmarking",
+      "icon": "https://img.icons8.com/color/48/comparative-analysis.png"
     },
     {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+      "name": "Business Acumen",
+      "icon": "https://img.icons8.com/color/48/business.png"
     },
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+      "name": "Product-Led Growth",
+      "icon": "https://img.icons8.com/color/48/growth-graph.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+      "name": "Value Stream Mapping",
+      "icon": "https://img.icons8.com/color/48/value.png"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+      "name": "Sustainability",
+      "icon": "https://img.icons8.com/color/48/sustainability.png"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+      "name": "Supply Chain Management",
+      "icon": "https://img.icons8.com/color/48/supply-chain.png"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+      "name": "Manufacturing Technology",
+      "icon": "https://img.icons8.com/color/48/industrial-scales.png"
     },
     {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+      "name": "Microsoft Suite",
+      "icon": "https://img.icons8.com/color/48/microsoft-office-2019.png"
     },
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+      "name": "JIRA",
+      "icon": "https://img.icons8.com/color/48/jira.png"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+      "name": "AutoCAD",
+      "icon": "https://img.icons8.com/color/48/autocad.png"
     },
     {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+      "name": "SolidWorks",
+      "icon": "https://img.icons8.com/color/48/solidworks.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+      "name": "CATIA",
+      "icon": "https://img.icons8.com/color/48/catia.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+      "name": "ANSYS",
+      "icon": "https://img.icons8.com/color/48/ansys.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+      "name": "MATLAB",
+      "icon": "https://img.icons8.com/color/48/matlab.png"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+      "name": "Tableau",
+      "icon": "https://img.icons8.com/color/48/tableau-software.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
-]
+      "name": "Power BI",
+      "icon": "https://img.icons8.com/color/48/power-bi.png"
+    },
+    {
+      "name": "Python",
+      "icon": "https://img.icons8.com/color/48/python--v1.png"
+    },
+    {
+      "name": "SPSS",
+      "icon": "https://img.icons8.com/color/48/spss.png"
+    },
+    {
+      "name": "Primavera",
+      "icon": "https://img.icons8.com/color/48/planning.png"
+    },
+    {
+      "name": "Asana",
+      "icon": "https://img.icons8.com/color/48/asana.png"
+    },
+    {
+      "name": "Figma",
+      "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    },
+    {
+      "name": "Canva",
+      "icon": "https://img.icons8.com/color/48/canva.png"
+    },
+    {
+      "name": "SAP",
+      "icon": "https://img.icons8.com/color/48/sap.png"
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "https://img.icons8.com/color/48/artificial-intelligence.png"
+    },
+    {
+      "name": "Lean Six Sigma",
+      "icon": "https://img.icons8.com/color/48/sigma.png"
+    }
+  ]
