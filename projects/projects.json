@@ -1,12 +1,11 @@
 [
   {
-    "name": "NotyStack Android",
+    "name": "Line Following Robot",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "image": "hq720.jpg",
+    "category": "Undergraduate",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://drive.google.com/drive/folders/1EEe_60fNy-M-cDJxeWLzPIrZnVaHZ1sv?usp=drive_link",
     }
   },
   {
