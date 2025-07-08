@@ -8,6 +8,15 @@
       "view": "https://drive.google.com/file/d/1dRKqpfwqUhWTFIP0s9xnpH2Zf-r8nQzn/view?usp=drive_link"
     }
   },
+    {
+    "name": "UrbanEVac",
+    "desc": "Modular, foldable stretcher with titanium frame, voice control, and shock-absorbing wheels for rapid casualty transport in urban conflict zones.",
+    "image": "Stretcherss",
+    "category": "industry",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1U4bZObo0ZFsrqNLtqgM7P6-oOoNdqODE?usp=sharing"
+    }
+  },
   {
     "name": "Green Shift Consultation",
     "desc": "Carbon credit monetization and breakage reduction, aligning operations with Verra VCS and circular economy principles.",
@@ -44,13 +53,13 @@
       "view": "https://drive.google.com/file/d/1jIRzxViArZ8ISll7J2AAr-s1nMT0IIPm/view?usp=sharing"
     }
   },
-  {
-    "name": "UrbanEVac",
-    "desc": "Modular, foldable stretcher with titanium frame, voice control, and shock-absorbing wheels for rapid casualty transport in urban conflict zones.",
-    "image": "Stretcherss",
-    "category": "industry",
+    {
+    "name": "Data Analysis SPSS",
+    "desc": "Univariate, bivariate, and regression analysis in SPSS to identify key predictors of monthly web visit frequency for customer segmentation.",
+    "image": "13877265-1617549622",
+    "category": "freelance",
     "links": {
-      "view": "https://drive.google.com/drive/folders/1U4bZObo0ZFsrqNLtqgM7P6-oOoNdqODE?usp=sharing"
+      "view": "https://drive.google.com/file/d/1csn5JYWjHQWT0WJrAPVN6auIG4LwyP4K/view?usp=sharing"
     }
   },
   {
@@ -196,7 +205,7 @@
     "links": {
       "view": "https://drive.google.com/file/d/1LMREsDQz9puSgUVL-b3YgtOukjIECSze/view?usp=sharing"
     }
-  }
+  },
   {
     "name": "Instagram MERN",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
@@ -268,5 +277,5 @@
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/"
     }
-  },
+  }
 ]
