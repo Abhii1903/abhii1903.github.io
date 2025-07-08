@@ -309,13 +309,12 @@
     }
   },
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
+    "name": "Woven fibres reinforced polymer matrix",
+    "desc": " Woven fibres reinforced polymer matrix composites are prepared by reinforcing used Indian sarees (cloth of silk, cotton and linen) in epoxy resin",
+    "image": "Wovenfibres",
+    "category": "undergraduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/drive/folders/1gNuPoRn82K6KREUd1kV8PjsNzUtJgdGe?usp=sharing"
     }
   },
   {
