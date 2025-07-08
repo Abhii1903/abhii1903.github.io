@@ -219,53 +219,48 @@
     }
   },
   {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
+    "name": "UX Design & Prototyping",
+    "desc": "Designed an AI-powered language learning app with personalized lessons, gamification, and speech recognition using paper prototyping and Figma",
+    "image": "0_jnQK3H-au6nb06yj",
+    "category": "graduate",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://drive.google.com/file/d/1oES520NEBQm4tNMNLpFwaKH3QpjSBgl0/view?usp=sharing"
     }
   },
   {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
+    "name": "HVAC & MEP Layouts",
+    "desc": "Drafted detailed HVAC, electrical, and plumbing plans for multi-floor residential infrastructure using AutoCAD with precise legend integration.",
+    "image": "66e3f07ad787f296548ff6ae_1726209363620",
+    "category": "Industry",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+      "view": "https://drive.google.com/file/d/1PEt3kGTh2HKBX56ERadXrKJHWrSVPJk9/view?usp=sharing"
     }
   },
   {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
+    "name": "3D Design-Simulations",
+    "desc": "Performed structural and impact simulations for go-kart components including chassis, hub, sprocket, and steering using SolidWorks and ANSYS.",
+    "image": "f3dabda183ba205af9d91f38a633678caa3f26ed",
+    "category": "freelance",
     "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
+      "view": "https://drive.google.com/drive/folders/1xFZczDWuT7YU5TW1nBv7IjpxPUreyPgm?usp=sharing"
     }
   },
   {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
+    "name": "Enviro Cleantech Solutions",
+    "desc": "Engineered a precision 2D CAD layout for hospital bed head panels integrating medical gas outlets, electrical modules, and data ports per client specifications.",
+    "image": "pngtree-mechanical-engineers-png-image_17291732",
+    "category": "Industry",
     "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
+      "view": "https://drive.google.com/file/d/12haFxZvJDLbEWos9V_VwfwoZtgpcuAv8/view?usp=sharing"
     }
   },
   {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
+    "name": "Agriculture Shredder Machine",
+    "desc": "Designed and fabricated a crop residue shredder using fixed and adjustable blades, hopper-fed frame, and rotating shaft for efficient biomass processing.",
+    "image": "bio_waste_Shredder-removebg-preview",
+    "category": "freelance",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+      "view": "https://drive.google.com/file/d/1bNHR0LPbRVv9dd6AoM9HJFP-fA9FQMJ6/view?usp=sharing"
     }
   },
   {
