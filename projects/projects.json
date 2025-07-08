@@ -3,7 +3,7 @@
     "name": "Line Following Robot",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "linefollowingrobot",
-    "category": "Undergraduate",
+    "category": "undergraduate",
     "links": {
       "view": "https://drive.google.com/file/d/1LMREsDQz9puSgUVL-b3YgtOukjIECSze/view?usp=sharing"
     }
@@ -319,23 +319,21 @@
     }
   },
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
+    "name": "Fibre reinforced polymer composites (FRP)",
+    "desc": "Development of Polymer Matrix Composite Board by Reinforcing Midrib of Coconut Leaf (Cocos nucifera)",
+    "image": "Fibrecomposite",
+    "category": "undergraduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/file/d/1IxzdQk8GvSDUjKw8OECyTDU1MI-PvNLC/view?usp=sharing"
     }
   },
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
+    "name": "Line Following Robot",
+    "desc": "Autonomous line-following robot built using Arduino, IR sensors, L298N motor driver, PWM control, and real-time logic.",
+    "image": "linefollowingrobot",
+    "category": "undergraduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/file/d/1LMREsDQz9puSgUVL-b3YgtOukjIECSze/view?usp=sharing"
     }
   }
 ]
