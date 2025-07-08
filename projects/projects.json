@@ -169,13 +169,12 @@
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
+    "name": "UrbanEVac",
+    "desc": "Developed a modular, foldable stretcher with titanium frame, voice control, and shock-absorbing wheels for rapid casualty transport in urban conflict zones.",
+    "image": "Stretcherss",
+    "category": "industry",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/drive/folders/1U4bZObo0ZFsrqNLtqgM7P6-oOoNdqODE?usp=sharing"
     }
   },
   {
