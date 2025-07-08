@@ -279,23 +279,21 @@
     }
   },
   {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
+    "name": "Solar Panel Efficiency",
+    "desc": "Improving the Efficiency of Solar Panels using Mirrors and Cooling Technique for Concentrating Photovoltaics",
+    "image": "solar",
+    "category": "undergraduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/file/d/11zNN18vOP1A8bUXZArpIjXm_qKknvABC/view?usp=sharing"
     }
   },
   {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
+    "name": "Electric Go-kart vehicle",
+    "desc": "Designed and fabricated a high-performance electric go-kart using BLDC motor, Li-ion batteries, AISI-4130 chassis, and CAD/FEA tools like SOLIDWORKS and ANSYS; integrated ergonomic, safety, and dynamic systems for competitive racing.",
+    "image": "EVGK",
+    "category": "undergraduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/drive/folders/1lIaPUg7vsRNEspeZLISoNORN9C4m87Q9?usp=sharing"
     }
   },
   {
