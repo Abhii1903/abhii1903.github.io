@@ -139,33 +139,30 @@
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
+    "name": "Flexforce Automation Strategy",
+    "desc": "Automating Flexforce Management and Negotiations",
+    "image": "3d-isometric-flat-conceptual-illustration-of-automation-png",
+    "category": "industry",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "https://drive.google.com/file/d/1IC14pCrevvn1rk8eD-uew8lKMRzjm0e2/view?usp=sharing"
     }
   },
   {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
+    "name": "Employee Insights Project",
+    "desc": "Conducted JTBD-based analysis to identify key drivers of employee satisfaction and inform retention strategies.",
+    "image": "31fe12b5-b3da-4bb7-a6cf-7dcffb5af403_1069x611",
+    "category": "industry",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      "view": "https://drive.google.com/file/d/1AhZNHf7S2HHQrbuz4PwrL7cOZk17Gv8C/view?usp=sharing"
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
+    "name": "Hospital Consulting Project",
+    "desc": "Planned and proposed a dedicated Pet Therapy unit to enhance patient care through therapeutic animal-assisted interventions.",
+    "image": "istockphoto-465505909-612x612",
+    "category": "industry",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://drive.google.com/file/d/1jIRzxViArZ8ISll7J2AAr-s1nMT0IIPm/view?usp=sharing"
     }
   },
   {
