@@ -1,11 +1,11 @@
 [
   {
-    "name": "Line Following Robot",
+    "name": "L",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "linefollowingrobot",
-    "category": "undergraduate",
+    "image": "l",
+    "category": "u",
     "links": {
-      "view": "https://drive.google.com/file/d/1LMREsDQz9puSgUVL-b3YgtOukjIECSze/view?usp=sharing"
+      "view": "h"
     }
   },
   {
