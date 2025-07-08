@@ -269,7 +269,7 @@
     }
   },
   {
-    "name": " Ornithopter Development and Operation",
+    "name": " Ornithopter",
     "desc": "Flapping-wing ornithopter for MAV research, built using lightweight balsa-carbon frame, geared wing mechanism, V-tail, and wireless flight control system.",
     "image": "orni",
     "category": "undergraduate",
@@ -288,7 +288,7 @@
   },
   {
     "name": "Electric Go-kart vehicle",
-    "desc": "Designed and fabricated a high-performance electric go-kart using BLDC motor, Li-ion batteries, AISI-4130 chassis, and CAD/FEA tools like SOLIDWORKS and ANSYS; integrated ergonomic, safety, and dynamic systems for competitive racing.",
+    "desc": "Built a high-performance electric go-kart using BLDC motor, Li-ion batteries, AISI-4130 chassis, and CAD/FEA tools for competitive racing.",
     "image": "EVGK",
     "category": "undergraduate",
     "links": {
