@@ -129,13 +129,12 @@
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "Green Shift Consultation",
+    "desc": "Carbon credit monetization and breakage reduction, aligning operations with Verra VCS and circular economy principles.",
+    "image": "ae897d_bc12b81691fb4d45b824e927b20837a5~mv2",
+    "category": "industry",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "https://drive.google.com/file/d/1njDuI9TquVJZJa-EGT4nWUTd53PRBzHX/view?usp=sharing"
     }
   },
   {
@@ -149,7 +148,7 @@
   },
   {
     "name": "Employee Insights Project",
-    "desc": "Conducted JTBD-based analysis to identify key drivers of employee satisfaction and inform retention strategies.",
+    "desc": "JTBD-based analysis to identify key drivers of employee satisfaction and inform retention strategies.",
     "image": "31fe12b5-b3da-4bb7-a6cf-7dcffb5af403_1069x611",
     "category": "industry",
     "links": {
@@ -167,7 +166,7 @@
   },
   {
     "name": "UrbanEVac",
-    "desc": "Developed a modular, foldable stretcher with titanium frame, voice control, and shock-absorbing wheels for rapid casualty transport in urban conflict zones.",
+    "desc": "Modular, foldable stretcher with titanium frame, voice control, and shock-absorbing wheels for rapid casualty transport in urban conflict zones.",
     "image": "Stretcherss",
     "category": "industry",
     "links": {
@@ -176,7 +175,7 @@
   },
   {
     "name": "Interactive IoT Lamp Prototype",
-    "desc": "Engineered a sensor-driven smart lamp with integrated vault, featuring ultrasonic proximity detection, metal-touch access, RGB feedback, and servo locking via Arduino.",
+    "desc": "Sensor-driven smart lamp with integrated vault, featuring ultrasonic proximity detection, metal-touch access, RGB feedback, and servo locking via Arduino.",
     "image": "1713193574746",
     "category": "graduate",
     "links": {
