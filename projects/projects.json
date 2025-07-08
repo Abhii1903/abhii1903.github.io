@@ -299,13 +299,12 @@
     }
   },
   {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
+    "name": "Stretcher cum Wheelchair",
+    "desc": "Modular wheelchair-cum-stretcher with 3-in-1 design, voice control, and shock-absorbing wheels; built for emergency care, comfort, and compact mobility.",
+    "image": "stretcher",
+    "category": "undergraduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://docs.google.com/presentation/d/1vq3LtVpSHa1uNX7m2ZSraaneW9xnaBsLJdztYaO4Jrw/edit?usp=sharing"
     }
   },
   {
