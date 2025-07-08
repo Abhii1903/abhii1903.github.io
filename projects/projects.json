@@ -179,43 +179,39 @@
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
+    "name": "Interactive IoT Lamp Prototype",
+    "desc": "Engineered a sensor-driven smart lamp with integrated vault, featuring ultrasonic proximity detection, metal-touch access, RGB feedback, and servo locking via Arduino.",
+    "image": "1713193574746",
+    "category": "graduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/drive/folders/13nwcpthsObx8KYrEbYPwOWCRLQpJcvV-?usp=sharing"
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
+    "name": "Arduino Security System",
+    "desc": "Built an interactive door alarm using ultrasonic and metal sensors, servo lock, buzzer, and RGB LED with Arduino-based control.",
+    "image": "png-clipart-security-alarms-systems-home-security-sensor-alarm-device-smoke-detector-buglar-electronics-business",
+    "category": "graduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/file/d/1Idh6S9EDEs_G3cTSXGiyaGE81cxzAR8O/view?usp=sharing"
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
+    "name": "3D CAD & Printing",
+    "desc": "Modeled a custom keychain in CATIA V5 and fabricated it using PLA material through precision 3D printing.",
+    "image": "hq720",
+    "category": "graduate",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://drive.google.com/drive/folders/10jL9cbTmftUNk2CmJyHq1-58SiLRAyx4?usp=sharing"
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
+    "name": "Laser-Cut Prototyping",
+    "desc": "Engineered a portable storage unit using CATIA, AutoCAD, and precision laser cutting with integrated living hinge design.",
+    "image": "images",
+    "category": "graduate",
     "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      "view": "https://drive.google.com/drive/folders/1dOMSexugIjm8YX_GaPd6uke7ea_K_TB2?usp=sharing"
     }
   },
   {
